@@ -30,7 +30,8 @@ yum install npm -y
 ```
 
 
-https://camo.githubusercontent.com/348db74f60308debd46f0ce82f57a38c807a211ca661109e1a494fa7cb7e525a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d4646444430303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d626c7565
+ <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+ </div>
 
 
 ## Setup Tool and Install Tool DDoS-NodeJs
