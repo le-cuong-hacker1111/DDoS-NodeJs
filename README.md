@@ -18,6 +18,7 @@ sudo apt-get install npm -y
 ```
 
 ### Centos
+```ssh
 yum install git -y
 yum install perl -y
 yum install python2 -y
@@ -26,6 +27,7 @@ yum install python3 -y
 yum install python3-pip -y
 yum install nodejs -y
 yum install npm -y
+```
 
 
 
