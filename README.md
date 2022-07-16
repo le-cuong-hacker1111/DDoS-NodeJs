@@ -61,3 +61,7 @@ iptables -A OUTPUT -p udp --dport 5353 -j DROP
 ulimit -n 999999
 chmod 777 *
 ```
+
+` How to use?`
+` node namefile url time`
+EX: node HTTP-RAND.js https://www.com.vn/ 9000
