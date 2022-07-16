@@ -19,4 +19,7 @@ pip3 install random-useragent
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt-get install ./google-chrome-stable_current_amd64.deb
 iptables -t mangle -A PREROUTING -s 243.45.216.58-j DROP
+iptables -A INPUT -p udp -m length --length 49 -j DROP
+iptables -A INPUT -p udp -i eth0 ! -s 0.0.0.0/0 --dport 39356 -j DROP
+
 
