@@ -34,8 +34,9 @@ yum install npm -y
 
 
 
-## Setup Tool
+## Setup Tool and Install Tool DDoS-NodeJs
 ```
+git clone https://github.com/le-cuong-hacker1111/DDoS-NodeJs.git && cd DDoS-NodeJs
 npm i request
 npm i https-proxy-agent
 npm i zlib 
