@@ -66,4 +66,4 @@ chmod 777 *
 
 ` node namefile url time`
 
-`### EX: node HTTP-RAND.js https://www.com.vn/ 9000`
+### ` EX: node HTTP-RAND.js https://www.com.vn/ 9000`
