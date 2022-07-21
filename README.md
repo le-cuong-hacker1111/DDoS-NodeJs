@@ -46,11 +46,11 @@ npm i cloudscraper
 npm i hcaptcha-solver
 npm i randomstring
 npm i cluster
-pip3 intstall cloudflare-bypasser
-pip3 intstall crypto-random-string
-pip3 intstall path
-pip3 intstall fs
-pip3 intstall colors
+pip3 install cloudflare-bypasser
+pip3 install crypto-random-string
+pip3 install path
+pip3 install fs
+pip3 install colors
 pip3 install random-useragent
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt-get install ./google-chrome-stable_current_amd64.deb
