@@ -46,6 +46,9 @@ npm i cloudscraper
 npm i hcaptcha-solver
 npm i randomstring
 npm i cluster
+npm i cloudflare-bypasser
+npm i crypto-random-string
+npm i random-useragent
 pip3 install cloudflare-bypasser
 pip3 install crypto-random-string
 pip3 install path
